@@ -1,0 +1,32 @@
+/* ===== Tipografía ===== */
+body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    background-color: #f2e9d8;
+}
+
+.titulo {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    color: #2f6b3c;
+}
+
+/* ===== Colores ===== */
+.texto-naranja {
+    color: #d97316;
+}
+
+/* ===== Fondos ===== */
+.encabezado {
+    background-color: #2f6b3c;
+}
+
+.encabezado a {
+    color: #f2e9d8;
+}
+
+.pie {
+    background-color: #2f6b3c;
+    color: #f2e9d8;
+}
